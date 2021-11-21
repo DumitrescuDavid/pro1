@@ -1,0 +1,30 @@
+body{
+    background-color:aquamarine;
+    text-align: center;
+}
+table{
+    border: 3px solid white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: auto;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+#one{
+    width: 800px;
+    height: 200px;
+}
+#two{
+    width: 800px;
+}
+#four{
+    width: 800px;
+}
+pre{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
